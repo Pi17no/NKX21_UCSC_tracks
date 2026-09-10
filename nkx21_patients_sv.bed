@@ -1,4 +1,4 @@
-track name="NKX2-1 noncoding SVs" description="SV in liteature patients, ref. Wijngaard et al. 2026. del=red, inv=thin, ins=blue, complex_inv=black, translBp=green" visibility=3 itemRgb="On"										
+track name="NKX2-1 noncoding SVs" description="SV in literature patients, ref. Wijngaard et al. 2026. del=red, inv=thin, ins=blue, complex_inv=black, translBp=green" visibility=3 itemRgb="On"										
 14	35534773	36428634	Family1	1000	.	35534773	36428634	255,0,0	1	893861	0
 14	35809095	36367810	Family2	1000	.	35809095	36367810	255,0,0	1	558715	0
 14	36104378	36495095	Family3	1000	.	36104378	36495095	255,0,0	1	390717	0
